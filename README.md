@@ -1,10 +1,11 @@
 # Data Scientist
 
 # Work History
-Data Scientist @ Booz Allen Hamilton (2018 - Present)
+Data Scientist @ Booz Allen Hamilton (Oct. 2018 - Present)
 
 # Education
 Mathematics/Economics, B.A.
+Computer Science, Graduate Certificate
 
 # Projects
 
