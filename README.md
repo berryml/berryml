@@ -1,4 +1,15 @@
-### Hi there 👋
+# Data Scientist
+
+# Work History
+Data Scientist @ Booz Allen Hamilton (2018 - Present)
+
+# Education
+Mathematics/Economics, B.A.
+
+# Projects
+
+# I am currently...
+- 
 
 <!--
 **berryml/berryml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
