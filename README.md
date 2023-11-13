@@ -11,7 +11,7 @@ Mathematics/Economics, B.A.
 # I am currently...
 - Reading: The Coaching Habit
 - Playing: Outer Worlds
-- Learning: [Algorithms for Searching, Sorting, and Indexing] (https://www.coursera.org/learn/algorithms-searching-sorting-indexing/home)
+- Learning: [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing/home)
 
 <!--
 **berryml/berryml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
