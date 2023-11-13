@@ -4,8 +4,8 @@
 Data Scientist @ Booz Allen Hamilton (Oct. 2018 - Present)
 
 # Education
-Mathematics/Economics, B.A.
-Computer Science, Graduate Certificate
+- Mathematics/Economics, B.A.
+- Computer Science, Graduate Certificate
 
 # Projects
 
