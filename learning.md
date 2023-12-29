@@ -1,5 +1,5 @@
 ---
-permalink: /learning.html
+permalink: /learning/
 layout: page
 title: Learning Summary
 ---

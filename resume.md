@@ -1,5 +1,5 @@
 ---
-permalink: /resume.html
+permalink: /resume/
 title: Resume
 layout: page
 ---
@@ -13,9 +13,7 @@ Data Scientist @ Booz Allen Hamilton (Oct. 2018 - Present)
 - Computer Science, Graduate Certificate
 
 ### Technical Skills
-- Python
-- C/C##
-- Java
+{% include skills_table.html %}
 
 ### Certifications
 - Python Institute:
