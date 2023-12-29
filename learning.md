@@ -1,3 +1,6 @@
+---
+permalink: /learning.html
+---
 # My Learning Summary
 ## Certifications
 - Python Institute: Certified Entry-Level Python Programmer (PCEP); December 2023
