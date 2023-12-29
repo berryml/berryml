@@ -1,15 +1,15 @@
-<h1>Public Resume</h1>
-<h2>Data Scientist</h2>
-<br>
-<h3>Work History</h3>
+# Public Resume
+## Data Scientist
+
+### Work History
 Data Scientist @ Booz Allen Hamilton (Oct. 2018 - Present)
 
-<h3>Education</h3>
+### Education
 - Mathematics/Economics, B.A.
 - Computer Science, Graduate Certificate
 
-<h3>Projects</h3>
-<h3>I am currently...</h3>
+### Projects
+### I am currently...
 - Reading: The Coaching Habit
 - Playing: Outer Worlds
 - Learning: [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing/home)
