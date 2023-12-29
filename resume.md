@@ -1,7 +1,8 @@
 ---
 permalink: /resume.html
+title: Resume
+layout: page
 ---
-# Public Resume
 ## Data Scientist
 
 ### Work History
@@ -11,8 +12,13 @@ Data Scientist @ Booz Allen Hamilton (Oct. 2018 - Present)
 - Mathematics/Economics, B.A.
 - Computer Science, Graduate Certificate
 
-### Projects
-### I am currently...
-- Reading: The Coaching Habit
-- Playing: Outer Worlds
-- Learning: [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing/home)
+### Technical Skills
+- Python
+- C/C##
+- Java
+
+### Certifications
+- Python Institute:
+    - PCEP: Entry Level Python Programmer
+
+

@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Currently...
+- Reading: The Coaching Habit
+- Playing: Outer Worlds, Pokemon Legends: Arceus
+- Learning: [Algorithms for Searching, Sorting, and Indexing](https://www.coursera.org/learn/algorithms-searching-sorting-indexing/home)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
