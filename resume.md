@@ -1,3 +1,6 @@
+---
+permalink: /resume.html
+---
 # Public Resume
 ## Data Scientist
 
