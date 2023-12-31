@@ -1,17 +1,11 @@
 <html>
-    <table class="skill-table">
-        <tr>
-            <td>Python</td>
-            <td>C/C#</td>
-            <td>Java</td>
-        </tr>
-        <tr>
-            <td>SQL</td>
-            <td>RegEx</td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>PyTorch</td>
-        </tr>
+    <table id="skills-table">
+        {% for row in site.data.skills %}
+            <tr>
+                {% for skill in row %}
+                <td>{{skill}}</td>
+                {% endfor %}
+            </tr>
+        {% endfor %}
     </table>
 </html>
