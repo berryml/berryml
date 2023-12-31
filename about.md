@@ -14,15 +14,8 @@ My mathematical interests are primarily in Differential Topology and the topolog
 ## Companion
 Fritz is a Miniature Schnauzer.
 
-![fritz]({{site.baseurl}}/images/fritz1.jpeg "Fritz laying down.")
+[<img src="{{site.baseurl}}/images/fritz1.jpeg" width="200" />]({{site.baseurl}}/images/fritz1.jpeg)
 
-![fritz]({{site.baseurl}}/images/fritz2.jpeg "Fritz eating.")
+[<img src="{{site.baseurl}}/images/fritz2.jpeg" width="200" />]({{site.baseurl}}/images/fritz.jpeg)
 
-![fritz]({{site.baseurl}}/images/fritz3.jpeg "Fritz showing his teefs.")
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[<img src="{{site.baseurl}}/images/fritz3.jpeg" width="200" />]({{site.baseurl}}/images/fritz3.jpeg)
